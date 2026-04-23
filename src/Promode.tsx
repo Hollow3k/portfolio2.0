@@ -19,6 +19,8 @@ function Promode() {
     "Figma",
     "Java",
     "Python",
+    "PostgreSQL",
+    "Supabase",
   ]
 
   const projectCards = [
@@ -161,7 +163,7 @@ function Promode() {
               ))}
             </div>
             <button
-              onClick={() => window.open("/Resume_Angad_Bajaj_25.3.pdf", "_blank")}
+              onClick={() => window.open("/resume_april.pdf", "_blank")}
               className="blank-script-heading mt-2 bg-[#000000] text-white h-10 text-3xl cursor-pointer hover:text-[#FAAB02] transition duration-300"
             >
               View Resume
