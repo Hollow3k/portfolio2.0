@@ -30,7 +30,7 @@ function Promode() {
       alt: "SHAY project preview",
       link: "https://shay-five.vercel.app",
       description:
-        "A platform for developers to design and generate database schemas, get AI suggestions and export SQL queries.",
+        "A platform for developers to design and generate database schemas, either manually or using the built in AI and export SQL queries.",
     },
     {
       title: "Pitch Perfect",
